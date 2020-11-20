@@ -1,0 +1,52 @@
+/* .blue {
+    text-align: center;
+    font-size: 100px;
+    color: blue;
+}
+.blueyoko{
+    text-align: center;
+    font-size: 100px;
+    color: blue;
+}
+
+.green {
+    text-align: center;
+    font-size: 100px;
+    color: green;
+}
+.red {
+    text-align: center;
+    font-size: 100px;
+    color: red;
+}
+.purple {
+    text-align: center;
+    font-size: 100px;
+    color: purple;
+} */
+
+.box{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-bottom: 30px;
+    border: 20px dashed white;
+
+}
+
+#b1{
+    background-color: blue;
+
+}
+#b1{
+    background-color: green;
+
+}
+#b1{
+    background-color: red;
+
+}
+v#b1{
+    background-color: purple;
+
+}

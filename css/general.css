@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css?family=Sawarabi+Gothic');
+
+
+body {
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+
+
+
+/* *{
+   font-family: Arial, Helvetica, sans-serif;
+} */
+
+span{
+    background-color: rgb(197, 211, 197);
+}
+
+#website_header {
+    color: #E5E5E5;
+    font-size: 25px;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: capitalize;
+    text-decoration: normal;
+    text-align: left;
+    text-shadow: 1px 2px 0px #A5A5A5;
+    width: 250px;
+    padding: 0 100px 0 80px;
+
+
+    /* text-indent: 20px; */
+    /* letter-spacing: 15px; */
+    /* word-spacing: 5px; */
+    overflow: visible;
+}
+
+.carlogo {
+    height: 30px;
+    text-align: left;
+    opacity: 0.3;
+
+}
+
+.carlogo img{
+    height: 80px;
+    padding: 23px 0 0 0;
+}
+
+h2 {
+    text-align: center;
+    opacity: 0.5;
+}
+
+.navigationarea{
+    text-align: right; 
+    background-color: #c9caca; 
+}
+
+.navigation {
+    background-color: rgb(253, 253, 253);
+    letter-spacing: 3px; 
+    padding: 8px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.navigation:hover {
+    background-color: rgb(182, 182, 182);
+}
+
+#firstname:focus{
+     background-color: rgb(221, 226, 152);
+}
+
+/* This is still tentative */
+/* ul li {
+    background-color: blue;
+} */
+/* ul li {
+    list-style-type: square;
+    list-style-position: inside;
+    list-style: url("../images/blue.png") circle inside;
+}
+
+ol li {
+    list-style-type: lower-roman;
+} */
+
+.carinfo {
+    text-align: center;
+    font-size: 15px;
+}
+
+.offer {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    color: #504d4d; 
+}
+
+.offerimage {
+    text-align: center;
+    color: #504d4d; 
+}
+
+.offerimage img{
+    width: auto;
+}
+
+.servicesoffered{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    background-color: #E5E5E5; 
+
+}
+
+.services {
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.carbrands {
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    background-color: #E5E5E5; 
+}
+
+.carbramds_names {
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.depertments{
+
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    background-color: #E5E5E5; 
+}
+
+.depertments_names {
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+
+}
+#about_us {
+    font-size: 25px;
+    color: #949292;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    color: white;
+     /* background-image: url("../images/building.jpeg");
+     background-repeat: no-repeat; */
+
+}
+/* #about_us{
+    /* background-image: url("../images/building.jpeg"); */
+    /* background-repeat: no-repeat; */
+    /* background-position: ; */
+    /* background-attachment: local; */
+    /* background: #d8dbdb  */
+    /*url("../images/building1.jpeg") no-repeat; */
+
+/* .officeimage {
+    height: 90px;
+    text-align: center;
+} */
+
+.address {
+    font-size: 20px;
+    color: #a39f9f;
+    text-align: center;
+}
+
+.table {
+    text-align: center;
+    table-layout: center;
+    /* margin-left: auto;
+    margin-right: auto; */
+    empty-cells: hide;
+    border-collapse: collapse;
+
+}
+
+#container{
+    width: 75%;
+    margin: 0 auto;
+    background-color: rgb(241, 241, 241);
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.office_picture{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(112, 86, 86);
+    margin: 0 auto;
+    border: 10px black double;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#office1 {
+    background-image: url("../images/building1.jpeg");
+}
+#office2 {
+    background-image: url("../images/building2.jpeg");
+}
+#office3 {
+    background-image: url("../images/building3.jpeg");
+}
+
